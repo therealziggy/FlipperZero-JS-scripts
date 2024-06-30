@@ -114,6 +114,15 @@ let recipes = {
                 "Serve hot."
             ] 
         },
+        { 
+            name: "Seafood", 
+            ingredients: [
+                "...."
+            ], 
+            steps: [
+                "shame on you >:("
+            ] 
+        },
         // Add more lunch recipes here (total 20)
     ],
     "Dinner": [
