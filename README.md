@@ -1,6 +1,4 @@
 # FlipperZero-JS-scripts
--JS scripts for Flipper Zero-
-
 
 I have created these JavaScripts using ChatGPT for the most part, with minor manual modifications.
 
@@ -12,8 +10,19 @@ https://www.youtube.com/watch?v=5U26CU_j2tE
 
 note: if you're trying similar method and ChatGPT gets stuck repeatedly troubleshooting a module, copy the module docs from the wiki (https://github.com/jamisonderek/flipper-zero-tutorials/wiki/) to chatgpt.
 
+these scripts were only tested on momentum firmware
+
 ---------------------------
 
+# How to install and use the scripts
+
+1- Download Raw File from the script page
+
+2- Copy the file into the flipper SD card (through microSD reader, or qFlipper app) to /apps/Scripts
+
+3- To run the script open the main menu > apps >  scripts
+
+----------------------------
 JS scripts:
 
 # Flipper's Cookbook
