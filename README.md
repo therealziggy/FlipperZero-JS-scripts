@@ -51,4 +51,8 @@ a script that calculates the number of steps taken, walking distance, and estima
 
 - Calories burned calculated based on number of steps (assuming 1 steps burns average of 0.04 kcal)
 
+---------------------------
 
+# Linux CheatSheet
+
+Linux commands cheat sheet, lists the most popular commands filtered by use category and distro
