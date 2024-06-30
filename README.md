@@ -8,7 +8,7 @@ https://github.com/jamisonderek/flipper-zero-tutorials/tree/main/js/ai
 
 https://www.youtube.com/watch?v=5U26CU_j2tE
 
-note: if you're trying similar method and ChatGPT gets stuck repeatedly troubleshooting a module, copy the module docs from the wiki (https://github.com/jamisonderek/flipper-zero-tutorials/wiki/) to chatgpt.
+note: if you're trying similar method and ChatGPT gets stuck repeatedly troubleshooting a module, copy the module docs from the wiki (https://github.com/jamisonderek/flipper-zero-tutorials/wiki/JavaScript#capabilities) to chatgpt.
 
 these scripts were only tested on momentum firmware
 
